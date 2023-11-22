@@ -12,3 +12,9 @@ cargo test -q
 cargo test -- --show-output
 ```
 
+### rustfmt
+
+```bash
+cargo fmt -- --check
+```
+
